@@ -1,0 +1,8 @@
+<preCompilationAnalysis file="C:/Users/josea/OneDrive/Documentos/Centennial/F24 6 term/ETEC 326/InternetCode/lib_xud/lib_xud/src/core/XUD_TestMode.S">
+  <fCall global="true" name="XUD_UsbTestSE0.nstackwords"/>
+  <fCall global="true" name="XUD_UsbTestSE0"/>
+  <fCall global="true" name="p_usb_rxd"/>
+  <fCall global="true" name="p_usb_txd"/>
+  <fCall global="true" name="flag1_port"/>
+  <fCall global="true" name="flag2_port"/>
+</preCompilationAnalysis>

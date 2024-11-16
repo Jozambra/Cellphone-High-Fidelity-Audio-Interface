@@ -1,0 +1,22 @@
+<preCompilationAnalysis file="C:/Users/josea/OneDrive/Documentos/Centennial/F24 6 term/ETEC 326/InternetCode/lib_xua/lib_xua/src/core/user/audiohw/audiohw.c">
+  <fCall global="true" name="AudioHwInit"/>
+  <fCall global="true" name="AudioHwInit.nstackwords"/>
+  <fCall global="true" name="AudioHwInit.maxcores"/>
+  <fCall global="true" name="AudioHwInit.maxtimers"/>
+  <fCall global="true" name="AudioHwInit.maxchanends"/>
+  <fCall global="true" name="AudioHwConfig"/>
+  <fCall global="true" name="AudioHwConfig.nstackwords"/>
+  <fCall global="true" name="AudioHwConfig.maxcores"/>
+  <fCall global="true" name="AudioHwConfig.maxtimers"/>
+  <fCall global="true" name="AudioHwConfig.maxchanends"/>
+  <fCall global="true" name="AudioHwConfig_Mute"/>
+  <fCall global="true" name="AudioHwConfig_Mute.nstackwords"/>
+  <fCall global="true" name="AudioHwConfig_Mute.maxcores"/>
+  <fCall global="true" name="AudioHwConfig_Mute.maxtimers"/>
+  <fCall global="true" name="AudioHwConfig_Mute.maxchanends"/>
+  <fCall global="true" name="AudioHwConfig_UnMute"/>
+  <fCall global="true" name="AudioHwConfig_UnMute.nstackwords"/>
+  <fCall global="true" name="AudioHwConfig_UnMute.maxcores"/>
+  <fCall global="true" name="AudioHwConfig_UnMute.maxtimers"/>
+  <fCall global="true" name="AudioHwConfig_UnMute.maxchanends"/>
+</preCompilationAnalysis>
